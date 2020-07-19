@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import ProductPage from './components/ProductPage/ProductPage';
 import ShoppingCart from './components/ShoppingCart/ShoppingCart';
 
+
 class App extends Component {
   render() {
     return (
